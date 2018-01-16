@@ -1,8 +1,8 @@
 {
     "version": "1.0.3",
-    "name": "com.hughisaacs2.cordova.plugins.androidtvplugin",
+    "name": "cordova-plugin-android-tv-quick",
     "cordova_name": "AndroidTVPlugin",
-    "description": "Cordova Android TV Plugin",
+    "description": "Cordova Android TV Plugin Quick",
     "platforms": [
         "android"
     ],
@@ -14,7 +14,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/HughIsaacs2/Cordova-Android-TV-Plugin.git"
+        "url": "git+https://github.com/jturle/cordova-plugin-android-tv-quick.git"
     },
     "keywords": [
         "ecosystem:cordova",
@@ -23,7 +23,7 @@
   "author": "Hugh Isaacs II",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HughIsaacs2/Cordova-Android-TV-Plugin/issues"
+    "url": "https://github.com/jturle/cordova-plugin-android-tv-quick/issues"
   },
-  "homepage": "https://github.com/HughIsaacs2/Cordova-Android-TV-Plugin"
+  "homepage": "https://github.com/jturle/cordova-plugin-android-tv-quick"
 }
